@@ -1,0 +1,14 @@
+.display-block {
+    background-color: blueviolet;
+    width: 250px;
+}
+
+.display-inline-block {
+    background-color: rgb(83, 43, 226);
+    width: 450px;
+}
+
+h3 {
+    width: 400px;
+    background-color: cadetblue;
+}
