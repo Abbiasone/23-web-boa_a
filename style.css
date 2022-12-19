@@ -1,0 +1,72 @@
+.container{
+    height: 80px;
+    position: fixed;
+    align-content: center;
+    background-color: white;
+    width: 1000px;
+    top: 0;
+    left: 0;
+
+}
+
+#pinteres{
+    width: 55px;
+    border-radius: 50%;
+    
+}
+
+.item-2{
+    position: relative;
+    left: 80px;
+    bottom: 40px;
+    border-radius: 50%;
+    transition: 1s all;   
+    width: fit-content;
+}
+
+.item-2:hover{
+    background-color: grey;
+}
+
+.item-3{
+    position: relative;
+    left: 190px;
+    bottom: 60px;
+    border-radius: 50%;
+    transition: 1s all; 
+    width: fit-content; 
+}
+
+.item-3:hover{
+    background-color: grey;
+}
+
+.imagen{
+    position: relative;
+    left: 1000px;
+    bottom: 99px;
+    width: 40px;
+}
+
+.notificacion{
+    position: relative;
+    left: 1200px;
+    bottom: 150px;
+}
+
+.contenidos-de-imagenes{
+    display: flex;
+    
+    
+
+    
+}
+
+.los-contenidos{
+        height: 250px;
+
+}
+
+.los-contenidos-1{
+    height: 250px;
+}
